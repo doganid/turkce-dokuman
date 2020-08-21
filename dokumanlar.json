@@ -98,6 +98,13 @@
         "yazar": "Ömer Gülçiçek"
     },
     {
+        "ad": "Rust Programlama Dili",
+        "aciklama": "Rust Programlama Dili Türkçe Kaynak",
+        "link": "https://github.com/RustDili/dokuman",
+        "logo": "",
+        "yazar": "Mert Ataol"
+    },
+    {
         "ad": "Shell",
         "aciklama": "Shell Rehberi",
         "link": "https://github.com/omergulen/bash-guide",
